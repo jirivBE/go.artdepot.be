@@ -14,8 +14,7 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
-
-h1.LR-content, h2.LR-content {
+h1.LR-site-title, h2.LR-site-tagline montserrat {
   color:#fff;
 }
 
