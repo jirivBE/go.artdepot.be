@@ -5,7 +5,8 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
-  background:url('../images/cloth_alike_@2X.png') no-repeat top left / 102px 78px;
+  background:url('../images/cloth_alike_@2X.png') repeat;
+  background-size:102px 78px;
 }
 
 h1, h2, h3, h4, h5, h6 {
