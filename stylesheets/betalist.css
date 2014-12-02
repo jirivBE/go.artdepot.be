@@ -1,0 +1,30 @@
+#MyBetaList {
+  font: 14px Arial, sans-serif;
+  color: black;
+  background-color: white;
+  font-size: 12px;
+  line-height: 15px;
+  padding: 20px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  margin: 10px auto 20px auto; }
+  #MyBetaList h2 {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 8px; }
+  #MyBetaList #MyBetaList-referrer-link-wrap {
+    display: block;
+    padding: 8px;
+    margin: 8px 0;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #f1f1f1; }
+    #MyBetaList #MyBetaList-referrer-link-wrap a#MyBetaList-referrer-link:link, #MyBetaList #MyBetaList-referrer-link-wrap a#MyBetaList-referrer-link:visited {
+      color: blue; }
+  #MyBetaList form {
+    margin-top: 10px; }
+    #MyBetaList form input {
+      font-size: 16px;
+      padding: 3px; }
